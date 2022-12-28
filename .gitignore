@@ -1,2 +1,2 @@
-/aclImdb
-aclImdb_v1.tar.gz
+/.ipynb_checkpoints
+/model/distilbert-custom/pytorch_model.bin
